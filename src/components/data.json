@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "username": "admin1",
+      "name":"rahul",
+      "password": "pass1"
+    },
+    {
+      "username": "admin2",
+      "name":"aryan",
+      "password": "pass2"
+    },
+    {
+        "username": "company1",
+        "name":"rohit",
+        "password": "pass3"
+    },
+    {
+        "username": "company2",
+        "name":"kartik",
+        "password": "pass4"
+    },
+    {
+        "username": "company3",
+        "name":"varun",
+        "password": "pass5"
+    },
+    {
+        "username": "company4",
+        "name":"jayesh",
+        "password": "pass6"
+    },
+    {
+        "username": "company5",
+        "name":"rishi",
+        "password": "pass7"
+    }
+  ]
+}
